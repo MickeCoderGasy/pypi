@@ -1,1 +1,1 @@
-worker: python scanner.py --continuous
+worker: python scanner.py
